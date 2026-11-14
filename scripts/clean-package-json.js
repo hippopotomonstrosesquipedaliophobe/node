@@ -90,7 +90,7 @@ packageJson = {
   types: `${dtsPrefix}/index.d.ts`,
   author: {
     name: '泥豆君',
-    email: 'Mr.MudBean@outlook.com',
+    email: 'MudBean@outlook.com',
     url: 'https://mudbean.cn',
   },
   description: '一点点 🤏 node 函数',
@@ -110,16 +110,16 @@ packageJson = {
     },
     ...exportsList,
   },
-  keywords: ['node', 'mudbean', 'vvi'],
+  keywords: ['node', 'vvi'],
   homepage: 'https://npms.gleanings.cn/node',
   dependencies,
   bugs: {
-    url: 'https://github.com/gleanings/node/issues',
+    url: 'https://github.com/hippopotomonstrosesquipedaliophobe/node/issues',
     email: 'Mr.MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/gleanings/node.git',
+    url: 'git+https://github.com/hippopotomonstrosesquipedaliophobe/node.git',
   },
   publishConfig: {
     access: 'public',

@@ -1,6 +1,6 @@
 # @vvi/node
 
-[![version](<https://img.shields.io/npm/v/@vvi/node.svg?logo=npm&logoColor=rgb(0,0,0)&label=版本号&labelColor=rgb(73,73,228)&color=rgb(0,0,0)>)](https://www.npmjs.com/package/@vvi/node) [![issues 提交](<https://img.shields.io/badge/issues-提交-rgb(255,0,63)?logo=github>)](https://github.com/gleanings/node/issues)
+[![version](<https://img.shields.io/npm/v/@vvi/node.svg?logo=npm&logoColor=rgb(0,0,0)&label=版本号&labelColor=rgb(73,73,228)&color=rgb(0,0,0)>)](https://www.npmjs.com/package/@vvi/node) [![issues 提交](<https://img.shields.io/badge/issues-提交-rgb(255,0,63)?logo=github>)](https://github.com/hippopotomonstrosesquipedaliophobe/node/issues)
 
 ## 安装
 
@@ -70,7 +70,7 @@ type npmRegistry = '官方' | '淘宝' | '腾讯' | '中科大' | 'yarn';
 
 各源的测试情况
 
-![测试情况](https://static.lmssee.com/image/npm/测试源情况.png)
+![测试情况](https://static.gleanings.cn/image/npm/测试源情况.png)
 
 由上图可见，使用 `淘宝` 源时，延迟相对较低。而有些国内源都没有 `npm` 原源（但是各源有各源的用途，譬如，如果是在腾讯云服务器部署的服务，当然是使用腾讯的 npm 源比较快啦，举衣反山）延迟低。
 
